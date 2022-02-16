@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @krisnasuma
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP, python, html, CSS, javascript
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me, please contact my Twitter @krisnasum2727
+<div align="center">
+<h3>Hi there 👋,</h3>
+<p>Welcome to My Profile</p>
+<p>Hi, I'm Krisna Kusumawijaya. Check <a href="#">ℹ️</a> For More Information.</p>
 
-<!---
-krisnasuma/krisnasuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![](https://img.shields.io/badge/-@rief.rosyidi-black?logo=medium&style=flat-square)](https://medium.com/@rief.rosyidi)
+[![](https://img.shields.io/badge/-rief014-1fa2f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/Rief014)
+[![](https://img.shields.io/badge/-rief_rosyidi-1ba94c?logo=hackerrank&style=flat-square&logoColor=white)](https://www.hackerrank.com/rief_rosyidi)  
+</div>
